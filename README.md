@@ -1,7 +1,13 @@
 # Decomposition of Time Series into Trend, Seasonality & Residual from Scratch
 ## To view the video
-* [Click here](https://youtu.be/6iVJPG9RQXQ)
-* Click on the image below
+
+<table>
+   <tr>
+      <td><a href="http://www.youtube.com/watch?v=6iVJPG9RQXQ" target="_blank"><img height="50" src = "https://img.shields.io/youtube/views/6iVJPG9RQXQ?color=blue&label=Watch%20on%20YouTube&logo=youtube&logoColor=red&style=for-the-badge"></a></td>
+   </tr>
+</table>
+
+or click on the image below
 
 [![Decomposition of Time Series into Trend, Seasonality & Residual from Scratch](http://img.youtube.com/vi/6iVJPG9RQXQ/0.jpg)](http://www.youtube.com/watch?v=6iVJPG9RQXQ)
 
